@@ -9,6 +9,8 @@ https://bitbucket.org/azsoucom/link
 # TelegramDesktopPortable_1.3.14.paf
 https://drive.google.com/file/d/1v3WN9TsL91t-JyZYDiriuzKLQBBRf5Z4/view?usp=sharing
 
+https://telegram.org/dl/desktop/win_portable
+
 # VMware.Thinapp.Enterprise.5.2.3.B6945559 portable
 https://drive.google.com/file/d/1Ops7vZH7bFlOOTEMWomEb0xYz7BW9hfE/view?usp=sharing
 
