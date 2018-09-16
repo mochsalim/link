@@ -10,6 +10,9 @@ http://wepaste.com/qqqq 111111
 
 https://bitbucket.org/azsoucom/link
 
+# rdp.exe
+https://drive.google.com/file/d/15S6a1BYSxGWAAN1rh-Gt5-iYzteloeDR/view?usp=sharing
+
 # TelegramDesktopPortable_1.3.14.paf
 https://drive.google.com/file/d/1v3WN9TsL91t-JyZYDiriuzKLQBBRf5Z4/view?usp=sharing
 
