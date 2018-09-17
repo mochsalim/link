@@ -10,6 +10,9 @@ http://wepaste.com/qqqq 111111
 
 https://bitbucket.org/azsoucom/link
 
+# Disable HTML5 Autoplay (Reloaded) 禁止html5视频自动播放，RDP连线非常重要!
+https://chrome.google.com/webstore/detail/disable-html5-autoplay-re/cafckninonjkogajnihihlnnimmkndgf?hl=zh-CN
+
 # rdp.exe
 https://drive.google.com/file/d/15S6a1BYSxGWAAN1rh-Gt5-iYzteloeDR/view?usp=sharing
 
