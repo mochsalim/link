@@ -12,6 +12,7 @@ https://chrome.google.com/webstore/detail/twitter-origin-pic/ikinjfjljalmcgfpfnp
 
 # 下载tv kakao, naver 1080P 高清资源
 https://www.grabvdo.com/ 【ok】支持下载1080P 无韩国IP限制!!!
+
 http://2getflv.co.kr/?ckattempt=1 【720P】
 # 下载dailymotion
 http://saveitoffline.com
