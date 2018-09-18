@@ -3,6 +3,19 @@
 # WJSN_PIC 可以无限制上传图片视频
 https://plus.google.com/communities/106076711818560021145
 
+# 下载推特高清图
+Chrome Extension Twitter image
+https://chrome.google.com/webstore/detail/twitter-image/fklblgnjblcekahbefdbnodkibknnadp?utm_source=chrome-app-launcher-info-dialog
+Chrome Extension Twitter origin pic
+https://chrome.google.com/webstore/detail/twitter-origin-pic/ikinjfjljalmcgfpfnpilbeblfmpngke?utm_source=chrome-app-launcher-info-dialog
+右键 -> 开启图片 -> 在网址后方加上 :orig
+
+# 下载tv kakao, naver 1080P 高清资源
+https://www.grabvdo.com/ 【ok】支持下载1080P 无韩国IP限制!!!
+
+# 下载dailymotion
+http://saveitoffline.com
+
 # 分享TXT
 https://www.writeurl.com/text/yq6n4bsivh9dioej6l3p/022lrhl8yhx48hu6gusf/t142yoliws10gkrr22sk
 
