@@ -30,6 +30,9 @@ https://chrome.google.com/webstore/detail/disable-html5-autoplay-re/cafckninonjk
 # rdp.exe
 https://drive.google.com/file/d/15S6a1BYSxGWAAN1rh-Gt5-iYzteloeDR/view?usp=sharing
 
+# IDMPortable_6.30.10_Multilingual.paf
+https://drive.google.com/file/d/1OPs4awOxX76NGW8k1eleyeyYG7qDsZCi/view?usp=sharing
+
 # TelegramDesktopPortable_1.3.14.paf
 https://drive.google.com/file/d/1v3WN9TsL91t-JyZYDiriuzKLQBBRf5Z4/view?usp=sharing
 
