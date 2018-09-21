@@ -30,6 +30,9 @@ https://chrome.google.com/webstore/detail/disable-html5-autoplay-re/cafckninonjk
 # rdp.exe
 https://drive.google.com/file/d/15S6a1BYSxGWAAN1rh-Gt5-iYzteloeDR/view?usp=sharing
 
+# IDM6.25 绿色portable，不用管理员权限即可运行！！！
+https://drive.google.com/file/d/19ZoXq4JwKbG_UcJtEELBF8MNV7cyO-i7/view?usp=sharing
+
 # IDMPortable_6.30.10_Multilingual.paf
 https://drive.google.com/file/d/1OPs4awOxX76NGW8k1eleyeyYG7qDsZCi/view?usp=sharing
 
