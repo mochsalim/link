@@ -3,12 +3,20 @@
 # WJSN_PIC 可以无限制上传图片视频
 https://plus.google.com/communities/106076711818560021145
 
-# 下载推特高清图
+# 【技巧】下载推特高清图
 Chrome Extension Twitter image
 https://chrome.google.com/webstore/detail/twitter-image/fklblgnjblcekahbefdbnodkibknnadp?utm_source=chrome-app-launcher-info-dialog
 Chrome Extension Twitter origin pic
 https://chrome.google.com/webstore/detail/twitter-origin-pic/ikinjfjljalmcgfpfnpilbeblfmpngke?utm_source=chrome-app-launcher-info-dialog
 右键 -> 开启图片 -> 在网址后方加上 :orig
+
+# 【代理】【Chrome Extension】【修改代理】BP Proxy Switcher
+https://chrome.google.com/webstore/detail/bp-proxy-switcher/aehcnjhffkonkdjckpapbpgommjkcmpl/related
+# 【Chrome Extension】【下载Naver视频】Flash Video Downloader
+https://chrome.google.com/webstore/detail/flash-video-downloader/aiimdkdngfcipjohbjenkahhlhccpdbc
+# 【Proxy】【KR】可用
+https://proxyservers.pro/proxy/list/country/KR
+119.196.18.50:8080
 
 # 下载tv kakao, naver 1080P 高清资源
 https://www.grabvdo.com/ 【ok】支持下载1080P 无韩国IP限制!!!
