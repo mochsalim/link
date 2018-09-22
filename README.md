@@ -1,4 +1,5 @@
-
+# 快速截取页面截图, alt+print Screen ctrl+V
+https://snag.gy/ZunlGw.jpg
 
 # WJSN_PIC 可以无限制上传图片视频
 https://plus.google.com/communities/106076711818560021145
