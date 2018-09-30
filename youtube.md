@@ -4,7 +4,31 @@
 
 [CosmicGirls latest](https://www.youtube.com/results?search_query=cosmic+girls&sp=CAJQFA%253D%253D)
 
-Liu
+
+Liu WIFI密码
+"13907019805" ok
+
+FAST_18BE90
+"13970159287"
+
+Phicomm_DF69A8
+"62211788"
+
+FAST_BF5C
+"13870007853"
+
+FAST_5370
+"15879903836"
+
+FAST_C0CE
+"13970181966"
+
+FAST_9950 ?
+"012345678"
+
+
+
+Liu过期
 "18007011898"
 
 FAST_7CE4
