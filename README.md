@@ -18,6 +18,7 @@ https://chrome.google.com/webstore/detail/flash-video-downloader/aiimdkdngfcipjo
 # 【Proxy】【KR】可用
 https://proxyservers.pro/proxy/list/country/KR
 119.196.18.50:8080
+220.79.34.109:2018 SOCKS 可用181006
 
 # 下载tv kakao, naver 1080P 高清资源
 https://www.grabvdo.com/ 【ok】支持下载1080P 无韩国IP限制!!!
