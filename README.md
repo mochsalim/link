@@ -20,6 +20,17 @@ https://proxyservers.pro/proxy/list/country/KR
 119.196.18.50:8080
 220.79.34.109:2018 SOCKS 可用181006
 
+# 【Periscope下载】【pscp.tv】
+https://www.pscp.tv/w/1lPKqkbLRkmJb
+
+https://mobile.twitter.com/WJSN_Cosmic/status/1050720445597503491
+
+【方法1】http://downloadperiscopevideos.com/ + IDM 2.5 
+
+【方法2】https://www.clipconverter.cc/convert/d5gvDgar/
+
+【方法3】http://houlo.com/houlo-video-downloader
+
 # 下载tv kakao, naver 1080P 高清资源
 https://www.grabvdo.com/ 【ok】支持下载1080P 无韩国IP限制!!!
 
