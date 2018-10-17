@@ -36,6 +36,11 @@ https://drive.google.com/file/d/14Gs5bSMhfywBP9I5KmSHlEkFJihOWB3w/view?usp=shari
 
 YouTube, Vimeo, DailyMotion, Nicovideo (Nico Nico Douga), FC2 Video, Twitch.tv, Ustream.tv, LiveStream, Periscope, FC2 SayMove, Himado, Gogoanime, Nosub.tv, LiveLeak, Funny or Die, Facebook, AOL On, Fox News, NYTimes, HuffPost, WSJ, Washington Post, Reuters, TIME, Flickr, Instagram, The Guardian, Bloomberg, Fox Business, CNNMoney, GameSpot, IGN, GameTrailers, HowStuffWorks, SlideShare, Wikia, Photobucket, Cracked, eBaumsWorld, Break, Wimp, Veoh, CollegeHumor, TeamCoco, Billboard, TMZ, SoundCloud, Bandcamp, Adobe TV, VK, Rutube, GodTube, TED, IMDb, C-SPAN, Cookpad, Naver TV Cast, Watchbox, TeacherTube, SchoolTube, Vidto.me, vidlox.tv and more
 
+# 1080P with audio 在线下载
+https://youtubeplaylist.me/
+
+gsyx@kusrc.com, W6@, 登录后下载!!!
+
 # 下载tv kakao, naver 1080P 高清资源
 https://www.grabvdo.com/ 【ok】支持下载1080P 无韩国IP限制!!!
 
