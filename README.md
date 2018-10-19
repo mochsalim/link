@@ -23,6 +23,9 @@ https://proxyservers.pro/proxy/list/country/KR
 119.196.18.50:8080
 220.79.34.109:2018 SOCKS 可用181006
 
+# 【注册gmail】
+https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp
+
 # 【Periscope下载】【pscp.tv】
 https://www.pscp.tv/w/1lPKqkbLRkmJb
 
