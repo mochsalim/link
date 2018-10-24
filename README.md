@@ -7,6 +7,15 @@ https://dillinger.io/
 # Filebin
 https://filebin.net/
 
+#! 直接在线参数化修改图片大小
+https://www.cloudimage.io/
+
+https://avfskaoan.cloudimg.io/crop/960x600/x/http://sample.li/birds.jpg
+
+https://avfskaoan.cloudimg.io/width/960/x/http://sample.li/birds.jpg
+
+https://avfskaoan.cloudimg.io/height/600/x/http://sample.li/birds.jpg
+
 # speedtest.net
 https://turnkeyinternet.net/speed-test/ 10G文件
 
