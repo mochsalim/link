@@ -7,7 +7,7 @@ https://dillinger.io/
 # Filebin
 https://filebin.net/
 
-#! 直接在线参数化修改图片大小
+# 直接在线参数化修改图片大小
 https://www.cloudimage.io/
 
 https://avfskaoan.cloudimg.io/crop/960x600/x/http://sample.li/birds.jpg
