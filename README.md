@@ -7,6 +7,9 @@ https://dillinger.io/
 # Filebin
 https://filebin.net/
 
+# speedtest.net
+https://turnkeyinternet.net/speed-test/ 10G文件
+
 # 快速截取页面截图, alt+print Screen ctrl+V
 https://snag.gy/ZunlGw.jpg
 
