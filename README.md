@@ -4,6 +4,9 @@ https://tlk.io/wjsn
 # 在线编辑文本，保存到github，google drive, dropbox
 https://dillinger.io/
 
+# Filebin
+https://filebin.net/
+
 # 快速截取页面截图, alt+print Screen ctrl+V
 https://snag.gy/ZunlGw.jpg
 
