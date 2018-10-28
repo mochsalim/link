@@ -1,6 +1,11 @@
 # 在线分享文字/聊天
 https://tlk.io/wjsn
 
+# 文本比较diff
+http://countwordsfree.com/comparetexts
+
+https://text-compare.com/
+
 # 在线编辑文本，保存到github，google drive, dropbox
 https://dillinger.io/
 
