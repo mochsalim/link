@@ -63,6 +63,13 @@ https://mobile.twitter.com/WJSN_Cosmic/status/1050720445597503491
 
 【方法3】http://houlo.com/houlo-video-downloader 推荐
 
+# 【bilibili超清视频下载】 前面加kan
+https://www.parsevideo.com/bilibili/#http://www.bilibili.com/video/av9069110/
+
+https://www.kanbilibili.com/video/av35156546#download 【选择超清】
+
+https://tool.lu/urlconvert/ 【转换thuder QQ旋风链接】
+
 # 【Houlo Video Downloader】 下载油管、dailymotion、twitch
 https://drive.google.com/file/d/14Gs5bSMhfywBP9I5KmSHlEkFJihOWB3w/view?usp=sharing
 
