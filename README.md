@@ -66,6 +66,11 @@ https://mobile.twitter.com/WJSN_Cosmic/status/1050720445597503491
 
 【方法3】http://houlo.com/houlo-video-downloader 推荐
 
+# 【NaverTv视频下载法方】
+https://ide-run.goorm.io/workspace/twitter#
+
+youtube-dl https://tv.naver.com/v/xxxxxxx
+
 # 【bilibili超清视频下载】 前面加kan
 https://www.parsevideo.com/bilibili/#http://www.bilibili.com/video/av9069110/
 
