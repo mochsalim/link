@@ -1,6 +1,9 @@
 # 在线分享文字/聊天
 https://tlk.io/wjsn
 
+# Google Drive网盘文件在线播放
+https://gdriveplayer.us/
+
 # 文本比较diff
 http://countwordsfree.com/comparetexts
 
