@@ -71,6 +71,9 @@ https://ide-run.goorm.io/workspace/twitter#
 
 youtube-dl https://tv.naver.com/v/xxxxxxx
 
+# 【seedr.cc下载】【youtube-dl】【aria2】【rclone】
+youtube-dl https://www.rapidvideo.com/e/FWJ801SAHT --external-downloader aria2c --external-downloader-args "-x 16 -k 1M"
+
 # 【bilibili超清视频下载】 前面加kan
 https://www.parsevideo.com/bilibili/#http://www.bilibili.com/video/av9069110/
 
