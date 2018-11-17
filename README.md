@@ -134,6 +134,9 @@ https://telegram.org/dl/desktop/win_portable
 # VMware.Thinapp.Enterprise.5.2.3.B6945559 portable
 https://drive.google.com/file/d/1Ops7vZH7bFlOOTEMWomEb0xYz7BW9hfE/view?usp=sharing
 
+# MediaHuma_YouTube_Downloader_v3.9.9.9_(0711) 最新
+https://drive.google.com/file/d/1rzHm3uJBU2DUUPKm0oKwl52CwrwK8xIA/view?usp=sharing
+
 # MediaHuman YouTubeDownloader.3.9.8.26.Portable
 https://drive.google.com/file/d/1VY33p7ETvfXTt_QGu01DLI-2fEsBRmD2/view?usp=sharing
 
