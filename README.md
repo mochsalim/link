@@ -12,6 +12,8 @@ https://text-compare.com/
 # 转ssa/assB站新版字幕文件格式
 https://gotranscript.com/subtitle-converter
 
+https://transcribefiles.net/other/pages/caption-subtitle-converter.htm
+
 # 在线编辑文本，保存到github，google drive, dropbox
 https://dillinger.io/
 
