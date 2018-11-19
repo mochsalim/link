@@ -14,6 +14,9 @@ https://gotranscript.com/subtitle-converter
 
 https://transcribefiles.net/other/pages/caption-subtitle-converter.htm
 
+# subtitle 带阴影 , video to thumbnails 生成缩略图
+http://www.videotovideo.org/screenshots/
+
 # 在线编辑文本，保存到github，google drive, dropbox
 https://dillinger.io/
 
