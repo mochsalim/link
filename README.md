@@ -9,6 +9,9 @@ http://countwordsfree.com/comparetexts
 
 https://text-compare.com/
 
+# 扫描二维码
+https://webqr.com/
+
 # 转ssa/assB站新版字幕文件格式
 https://gotranscript.com/subtitle-converter
 
