@@ -17,6 +17,8 @@ https://gotranscript.com/subtitle-converter
 
 https://transcribefiles.net/other/pages/caption-subtitle-converter.htm
 
+http://subshifter.bitsnbites.eu/ 字幕偏移修正
+
 # subtitle 带阴影 , video to thumbnails 生成缩略图
 http://www.videotovideo.org/screenshots/
 
