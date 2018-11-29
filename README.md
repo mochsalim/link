@@ -66,6 +66,8 @@ https://proxyservers.pro/proxy/list/country/KR
 
 220.79.34.109:2018 SOCKS 可用181006
 
+https://hidemyna.me/en/proxy-list/?country=KR#list 可用
+
 https://www.proxynova.com/proxy-server-list/country-kr/
 
 http://www.xroxy.com/proxy-country-KR
