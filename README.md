@@ -60,7 +60,7 @@ https://chrome.google.com/webstore/detail/twitter-origin-pic/ikinjfjljalmcgfpfnp
 https://chrome.google.com/webstore/detail/bp-proxy-switcher/aehcnjhffkonkdjckpapbpgommjkcmpl/related
 # 【Chrome Extension】【下载Naver视频】Flash Video Downloader
 https://chrome.google.com/webstore/detail/flash-video-downloader/aiimdkdngfcipjohbjenkahhlhccpdbc
-# 【Proxy】【KR】可用
+# 【Proxy】【韩国代理】【KR】可用
 https://proxyservers.pro/proxy/list/country/KR
 119.196.18.50:8080
 220.79.34.109:2018 SOCKS 可用181006
