@@ -63,7 +63,14 @@ https://chrome.google.com/webstore/detail/flash-video-downloader/aiimdkdngfcipjo
 # 【Proxy】【韩国代理】【KR】可用
 https://proxyservers.pro/proxy/list/country/KR
 119.196.18.50:8080
+
 220.79.34.109:2018 SOCKS 可用181006
+
+https://www.proxynova.com/proxy-server-list/country-kr/
+
+http://www.xroxy.com/proxy-country-KR
+
+http://spys.one/free-proxy-list/KR/
 
 # 【注册gmail】
 https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp
