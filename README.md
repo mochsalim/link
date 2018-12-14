@@ -56,6 +56,9 @@ Chrome Extension Twitter origin pic
 https://chrome.google.com/webstore/detail/twitter-origin-pic/ikinjfjljalmcgfpfnpilbeblfmpngke?utm_source=chrome-app-launcher-info-dialog
 右键 -> 开启图片 -> 在网址后方加上 :orig
 
+# 【Chrome Extension】【下载rapidvideo】 Video Downloader professional
+https://chrome.google.com/webstore/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil/related
+
 # 【代理】【Chrome Extension】【修改代理】BP Proxy Switcher
 https://chrome.google.com/webstore/detail/bp-proxy-switcher/aehcnjhffkonkdjckpapbpgommjkcmpl/related
 # 【Chrome Extension】【下载Naver视频】Flash Video Downloader
