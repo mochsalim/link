@@ -59,6 +59,13 @@ https://chrome.google.com/webstore/detail/twitter-origin-pic/ikinjfjljalmcgfpfnp
 # 【Chrome Extension】【下载rapidvideo】 Video Downloader professional
 https://chrome.google.com/webstore/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil/related
 
+# 181215 라인라이브 우주소녀 (PM 9:00)
+https://live.line.me/channels/843553/upcoming/10130923
+#우주소녀 #wjsn #우주소녀_부탁해 
+Mnetライブ 宇宙少女
+# 【Chrome扩展】【下载Mnet Live Line视频】
+https://chrome.google.com/webstore/detail/stream-video-downloader/imkngaibigegepnlckfcbecjoilcjbhf
+
 # 【代理】【Chrome Extension】【修改代理】BP Proxy Switcher
 https://chrome.google.com/webstore/detail/bp-proxy-switcher/aehcnjhffkonkdjckpapbpgommjkcmpl/related
 # 【Chrome Extension】【下载Naver视频】Flash Video Downloader
