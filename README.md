@@ -1,6 +1,9 @@
 # 在线分享文字/聊天
 https://tlk.io/wjsn
 
+# 【Chrome扩展】【关闭显示图片】Easy Image Control
+https://chrome.google.com/webstore/detail/easy-image-control/clallboofkppmmmhdbjhamfhlhpchbij?hl=en-US
+
 # Google Drive网盘文件在线播放
 https://gdriveplayer.us/
 
