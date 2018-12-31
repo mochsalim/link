@@ -226,8 +226,13 @@ http://www.saveclipbro.com/
 
 http://www.2getflv.co.kr/?ckattempt=1
 
-# TV Naver
+# 【下载naverTV视频】 TV Naver
 http://d8.online-downloader.com/
+
+https://qdownloader.net/ 
+
+http://naver.online-downloader.com/
+
 
 # dcinside
 http://gall.dcinside.com/board/lists/?id=cosmicgirl
