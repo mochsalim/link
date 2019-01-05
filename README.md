@@ -7,6 +7,11 @@ https://chrome.google.com/webstore/detail/easy-image-control/clallboofkppmmmhdbj
 # Google Drive网盘文件在线播放
 https://gdriveplayer.us/
 
+# 【最新kbob视频谷歌网盘分享下载】
+https://4sashi.com/2019/01/190105-jtbc-gda2019-day-1-mamamoo-hwasa-twice-blackpink-bolbbalgan4-gfriend-sowon-chungha-g_i_dle-jennie-momoland/
+
+kehayek@for4mail.com, kehayek, Wj6@
+
 # 文本比较diff
 http://countwordsfree.com/comparetexts
 
