@@ -1,6 +1,11 @@
 # 在线分享文字/聊天
 https://tlk.io/wjsn
 
+# 【twitch视频下载方法】
+下载youtube-dl windows版
+https://rg3.github.io/youtube-dl/
+cmd, c:/demouser/youtube-dl https://www.twitch.tv/videos/xxxxxxxxx
+
 # 【Chrome扩展】【关闭显示图片】Easy Image Control
 https://chrome.google.com/webstore/detail/easy-image-control/clallboofkppmmmhdbjhamfhlhpchbij?hl=en-US
 
