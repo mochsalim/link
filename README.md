@@ -6,6 +6,13 @@ https://tlk.io/wjsn
 https://rg3.github.io/youtube-dl/
 cmd, c:/demouser/youtube-dl https://www.twitch.tv/videos/xxxxxxxxx
 
+# 【twitch视频下载方法】下载youtube-dl.exe,ffmpeg.exe放在同一目录下即可合并视频
+youtube-dl.exe from https://rg3.github.io/youtube-dl/download.html
+
+ffmpeg.exe from http://ffmpeg.zeranoe.com/builds/
+
+https://hero.handmade.network/forums/code-discussion/t/356-downloading_youtube_videos_from_win32_command_line
+
 # 【Chrome扩展】【关闭显示图片】Easy Image Control
 https://chrome.google.com/webstore/detail/easy-image-control/clallboofkppmmmhdbjhamfhlhpchbij?hl=en-US
 
