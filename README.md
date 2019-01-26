@@ -1,6 +1,9 @@
 # 在线分享文字/聊天
 https://tlk.io/wjsn
 
+# 【TextNow free text calls_v5.55.0_apkpure.com】
+https://drive.google.com/file/d/1QllIdPUNekpmZAN5ddXkfY7wUaZlOUOW/view?usp=sharing
+
 # 【twitch视频下载方法】
 下载youtube-dl windows版
 https://rg3.github.io/youtube-dl/
