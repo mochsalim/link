@@ -4,6 +4,11 @@ https://tlk.io/wjsn
 # 【TextNow free text calls_v5.55.0_apkpure.com】
 https://drive.google.com/file/d/1QllIdPUNekpmZAN5ddXkfY7wUaZlOUOW/view?usp=sharing
 
+# 【下载NaverTV字幕】
+https://downsub.com/?url=https%3A%2F%2Ftv.naver.com%2Fv%2F5189664 
+
+https://tv.naver.com/v/5189664
+
 # 【twitch视频下载方法】
 下载youtube-dl windows版
 https://rg3.github.io/youtube-dl/
