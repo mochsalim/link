@@ -2,6 +2,9 @@
 https://tlk.io/wjsn
 
 
+# 【SnipastePortable_1.16.2_32_64_bit.paf】
+https://drive.google.com/file/d/17HB06aUwFL5RLjeYIKJq9LO6e-DCC9wg/view?usp=sharing
+
 # 【VTV】 Video to Video , Video to Images Thumbnails
 https://drive.google.com/file/d/1RngWiExAgfjaFvtNAPedaDZy46uw8mTT/view?usp=sharing
 
