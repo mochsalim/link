@@ -1,6 +1,10 @@
 # 在线分享文字/聊天
 https://tlk.io/wjsn
 
+
+# 【sendanywhere ThinApp portable】sendanywhere.ThinApp.portable.190205.zip
+https://drive.google.com/file/d/1Vbt13ozrmRm8VlXugFeu_eGOECbytSpq/view?usp=sharing
+
 # 【SendAnywhere.re便携版】Send Anywhere.cameyo.exe
 https://drive.google.com/file/d/19F6d-Cc0GkJU25tThhYfXnj4Q9zlzdJB/view?usp=sharing
 
