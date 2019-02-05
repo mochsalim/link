@@ -1,6 +1,8 @@
 # 在线分享文字/聊天
 https://tlk.io/wjsn
 
+# 【SendAnywhere.re便携版】Send Anywhere.cameyo.exe
+https://drive.google.com/file/d/19F6d-Cc0GkJU25tThhYfXnj4Q9zlzdJB/view?usp=sharing
 
 # 【SnipastePortable_1.16.2_32_64_bit.paf】
 https://drive.google.com/file/d/17HB06aUwFL5RLjeYIKJq9LO6e-DCC9wg/view?usp=sharing
