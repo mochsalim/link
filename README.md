@@ -2,6 +2,9 @@
 https://tlk.io/wjsn
 
 
+# 【vqoc2.YouTubeDownloader.3.9.9.11.Portable】
+https://drive.google.com/file/d/1m-Wg7n-0OZ5JPNn7MWUIPIz_flvMGJm8/view?usp=sharing
+
 # 【sendanywhere ThinApp portable】sendanywhere.ThinApp.portable.190205.zip
 https://drive.google.com/file/d/1Vbt13ozrmRm8VlXugFeu_eGOECbytSpq/view?usp=sharing
 
